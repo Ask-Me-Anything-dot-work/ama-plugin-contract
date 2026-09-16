@@ -1,6 +1,6 @@
 {
   "name": "@ama-work/plugin-contract",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Neutral TypeScript contract package (PluginBridge, ConsolePanel, PluginManifest) shared between the orchestrator core and all mesh plugins",
   "main": "dist/index.js",
   "type": "module",
