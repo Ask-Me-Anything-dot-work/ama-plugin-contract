@@ -5,13 +5,13 @@
     "": {
       "name": "@ama-work/plugin-contract",
       "dependencies": {
+        "@hono/node-server": "^1.14.0",
         "hono": "^4.8.0",
       },
       "devDependencies": {
         "@commitlint/cli": "^21.2.0",
         "@commitlint/config-conventional": "^21.2.0",
         "@commitlint/types": "^21.2.0",
-        "@hono/node-server": "^1.14.0",
         "@semantic-release/commit-analyzer": "12",
         "@semantic-release/git": "10",
         "@semantic-release/github": "^12.0.9",
